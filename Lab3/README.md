@@ -24,7 +24,7 @@ def encrypt(plainText ,key):
       idx = alphabet.find(ch)  
       cipherText = cipherText + key[idx]  
   return cipherText
-                                          It is using a substitution Cipher
+It is using a substitution Cipher
 
 Identify the type of encryption the following algorithim is implementing :
 
@@ -40,6 +40,6 @@ def scramble2Encrypt(plainText):
           oddChars = oddChars + ch  
     charCount = charCount + 1  
   cipherText = oddChars + evenChars  
-  return cipherText 
-                                        It is using the Transposition Cipher
+  return cipherText
+It is using the Transposition Cipher
  
