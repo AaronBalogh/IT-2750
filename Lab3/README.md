@@ -9,7 +9,7 @@ List and describe 3 basic string methods.
 Describe the 3 simple algorithms for encryption that we covered in this lesson
   The Transposition Cipher scrambles letters and separates them into two different groups of evens and odds.
   
-  The Substitution Cipher is self explanatory and substitutes one letter with another in the alphabet. It is easy to crack using logic since some letters appear far more often in the alphabet.
+  The Substitution Cipher is self explanatory and substitutes one letter with another in the alphabet. It is easy to crack using logic since some letters appear far more often in English writing.
   
   The Vignere Cipher is an improved Substitution Cipher. It allows multiple mappings of the same letter and makes it much more difficult to crack.
 
