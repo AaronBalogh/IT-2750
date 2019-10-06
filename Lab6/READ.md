@@ -1,1 +1,1 @@
-
+In Chapter 7 we learned about data mining and implementing a few different scripts for it. The chapter talked a lot about the K-means cluster algorithm and how it is implemented/what it is. Not only that but it showed how to use the turtle method to visualize data with a gif of the world map.
