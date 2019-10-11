@@ -1,1 +1,1 @@
-
+In chapter 8 we learned more about cryptanalysis and dictionaries. We learned about the rail cipher and how to crack it along with the substitution cipher. We also learned how to use a brute force method to crack the rail cipher.
